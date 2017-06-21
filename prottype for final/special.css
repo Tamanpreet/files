@@ -1,0 +1,102 @@
+body,html {
+	margin:0;
+
+}
+
+nav {
+	background-color:rgb(191, 191, 191);
+	height:80px;
+}
+
+ul{ 
+	display: inline-block;
+	list-style: none;
+	margin-left: 250px;
+}
+
+li{ 
+	display: inline-block;
+	padding:20px;
+}
+
+li a { 
+	text-decoration: none;
+	padding: 20px; 
+	color: black;
+}
+
+li a:hover{
+	background-color: red;
+	color: blue;
+}	
+
+body {
+	background-color:rgb(255, 202, 236);
+	overflow-y: scroll;
+}
+#main {
+	position:relative;
+	top:50px;
+	left:185px;
+	height:200px;
+	width:500px;
+	border:4px dotted black;
+	background-color:;
+	color:black;
+}
+
+
+#p1{
+	position:fixed;
+	top:;
+	left:;
+	right:;
+	height:;
+	width:;
+	border:;
+	background-color:;
+	color:;
+}
+
+# {
+	position:fixed;
+	top:;
+	left:;
+	right:;
+	height:;
+	width:;
+	border:;
+	background-color:;
+	color:;
+}
+
+
+
+
+# {
+	position:fixed;
+	top:;
+	left:;
+	right:;
+	height:;
+	width:;
+	border:;
+	background-color:;
+	color:;
+}
+
+
+
+
+
+# {
+	position:fixed;
+	top:;
+	left:;
+	right:;
+	height:;
+	width:;
+	border:;
+	background-color:;
+	color:;
+}
